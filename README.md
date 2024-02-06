@@ -6,7 +6,7 @@
 
 ## Overview
 
-**DeboAI** is a virtual assistant designed to assist you with various tasks. It draws inspiration from the Computer Science teacher David Debono, incorporating personality traits that add a unique touch to your interactions. Explore its features and discover the influence of its inspiration as you continue to use it.
+**UN-NAMED** is a virtual assistant designed to assist you with various tasks. It draws inspiration from the Computer Science teacher David Debono, incorporating personality traits that add a unique touch to your interactions. Explore its features and discover the influence of its inspiration as you continue to use it.
 
 ## Setup
 
